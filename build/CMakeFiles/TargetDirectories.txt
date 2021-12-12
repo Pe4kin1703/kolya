@@ -1,0 +1,8 @@
+/home/danylo/KNU/Arheos/1_network_laba/build/CMakeFiles/rebuild_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/build/CMakeFiles/edit_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/build/client/CMakeFiles/rebuild_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/build/client/CMakeFiles/edit_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/build/client/CMakeFiles/client.dir
+/home/danylo/KNU/Arheos/1_network_laba/build/server/CMakeFiles/rebuild_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/build/server/CMakeFiles/edit_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/build/server/CMakeFiles/server.dir

@@ -1,0 +1,3 @@
+/home/danylo/KNU/Arheos/1_network_laba/server/build/CMakeFiles/rebuild_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/server/build/CMakeFiles/edit_cache.dir
+/home/danylo/KNU/Arheos/1_network_laba/server/build/CMakeFiles/server.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danylo/KNU/Arheos/1_network_laba/simple-server/server/server.cpp
+iostream
+-
+unistd.h
+-
+thread
+-
+fstream
+-
+sstream
+-
+vector
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+string
+-
+chrono
+-
+ctime
+-
+map
+-
+functional
+-
+mutex
+-
+

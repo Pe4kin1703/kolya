@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/server.dir/server.cpp.o  -o server  -lpthread 

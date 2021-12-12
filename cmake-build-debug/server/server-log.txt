@@ -1,0 +1,141 @@
+Server started
+Tue Oct 19 19:29:22 2021
+Connection accept for client with IP 127.0.0.1 ID: #1
+
+#1:
+Request: WHO
+#1:
+Request: ADD, 2, 1, HELLO WORLD!
+
+#1:
+Request: ADD, 2, 1,  I am Danya
+
+#1:
+Request: CHANGE, 2, 1,   have changed text
+
+#1:
+Request: DELETE, 2, 1
+
+#1:
+Request: ADD, 5, 5, HI
+
+#1:
+Invalid parametrs
+
+#1:
+Request: END 
+
+Tue Oct 19 19:32:08 2021
+Connection accept for client with IP 127.0.0.1 ID: #2
+
+#2:
+Request: END 
+
+Tue Oct 19 19:32:34 2021
+Connection accept for client with IP 127.0.0.1 ID: #3
+
+#3:
+Request: END 
+
+Tue Oct 19 19:33:13 2021
+Connection accept for client with IP 127.0.0.1 ID: #4
+
+#4:
+Request: END 
+
+Server started
+Fri Dec 10 14:32:03 2021
+Connection accept for client with IP 192.168.1.89 ID: #1
+
+#1:
+Incorrect request
+#1:
+Incorrect request
+#1:
+Request: WHO
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started
+Server started

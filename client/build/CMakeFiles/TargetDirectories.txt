@@ -1,0 +1,3 @@
+/home/danylo/kolya/simple-server/client/build/CMakeFiles/rebuild_cache.dir
+/home/danylo/kolya/simple-server/client/build/CMakeFiles/edit_cache.dir
+/home/danylo/kolya/simple-server/client/build/CMakeFiles/client.dir
